@@ -138,6 +138,8 @@ img {
   max-width: 1440px;
   background-color: var(--pitel-text-color);
   background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   background-image: linear-gradient(to right, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
     url(../images/people-office.jpg);
 }
@@ -198,17 +200,22 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: center;
-
-  margin-bottom: 8px;
   gap: 24px;
+}
+.section-company-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f4fd;
+  width: 264px;
+  height: 112px;
+  margin-bottom: 8px;
 }
 .section-company-buttom {
   padding: 0;
-
   background-color: #f4f4fd;
+
   border: none;
-  width: 264px;
-  height: 112px;
 }
 
 .company-list {
