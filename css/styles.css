@@ -194,6 +194,14 @@ img {
 .company {
   padding: 120px 0 120px 0;
 }
+.section-company-buttom {
+  padding: 0;
+  margin-bottom: 8px;
+  background-color: #f4f4fd;
+  border: none;
+  width: 264px;
+  height: 112px;
+}
 
 .company-list {
   display: flex;
