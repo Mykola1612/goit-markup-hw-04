@@ -194,9 +194,17 @@ img {
 .company {
   padding: 120px 0 120px 0;
 }
+.list-svg-company {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-bottom: 8px;
+  gap: 24px;
+}
 .section-company-buttom {
   padding: 0;
-  margin-bottom: 8px;
+
   background-color: #f4f4fd;
   border: none;
   width: 264px;
