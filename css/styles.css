@@ -196,13 +196,7 @@ img {
 .company {
   padding: 120px 0 120px 0;
 }
-.list-svg-company {
-  display: flex;
-  justify-content: space-between;
 
-  align-items: center;
-  gap: 24px;
-}
 .section-company-container {
   display: flex;
   justify-content: center;
@@ -211,12 +205,6 @@ img {
   width: 264px;
   height: 112px;
   margin-bottom: 8px;
-}
-.section-company-buttom {
-  padding: 0;
-  background-color: #f4f4fd;
-
-  border: none;
 }
 
 .company-list {
