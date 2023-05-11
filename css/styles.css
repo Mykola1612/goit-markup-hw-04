@@ -379,6 +379,7 @@ img {
 }
 .customers-conteiner {
   display: flex;
+  justify-content: center;
   gap: 24px;
 }
 .customers-client {
