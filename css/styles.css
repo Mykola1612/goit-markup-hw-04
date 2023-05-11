@@ -205,6 +205,7 @@ img {
   width: 264px;
   height: 112px;
   margin-bottom: 8px;
+  border-radius: 4px;
 }
 
 .company-list {
@@ -338,7 +339,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.section-teams-div {
+.section-teams-svg-ul {
   display: flex;
   gap: 24px;
 }
