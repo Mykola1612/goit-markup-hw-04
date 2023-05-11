@@ -421,8 +421,7 @@ img {
 
   color: #ffffff;
 }
-.footer-social {
-}
+
 .container-footer-social {
   display: flex;
   flex-direction: column;
@@ -452,7 +451,7 @@ img {
   background-color: var(--buton-text-color);
 }
 .footer-social-link:hover,
-.footer-social-link :focus {
+.footer-social-link:focus {
   background-color: #31d0aa;
 }
 .footer {
